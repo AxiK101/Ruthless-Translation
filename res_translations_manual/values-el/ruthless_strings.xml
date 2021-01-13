@@ -265,7 +265,7 @@
     </string>
 
     <string name="hotseat_default">
-        Hotseat
+        Μπάρα εφαρμογών
     </string>
 
     <string name="columns_default">
@@ -377,7 +377,7 @@
     </string>
 
     <string name="secure_apps_loading">
-        " Έναρξη "
+        "Έναρξη"
     </string>
 
     <string name="secure_apps_no_lock_error">
@@ -455,7 +455,7 @@
     </string>
 
     <string name="translator_info">
-        Μεταγλώττιση
+        Μετάφραση
     </string>
 
     <string name="misc">
@@ -467,7 +467,7 @@
     </string>
 
     <string name="set_as_default_app">
-        θέστε ως τον προεπιλεγμένο Launcher
+        θέστε ως τον προεπιλεγμένο εκκινητή
     </string>
 
     <string name="privacy_policy">
@@ -498,6 +498,6 @@
     </string>
 
     <string name="share">
-        Διαμοιρασμός
+        Κοινοποίηση
     </string>
 </resources>
